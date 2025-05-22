@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Voting System (C++)
 
 This is a C++ console-based Online Voting System. It simulates a basic election process including candidate registration, voter registration, vote casting, and result display.
@@ -59,3 +60,6 @@ This project is licensed under the MIT License.
 ## 🙌 Acknowledgements
 
 Developed by Abdulbari979.
+=======
+# online_voting_system
+>>>>>>> 346e6c9ea3698f083b06fd0d943067238c26bc94
