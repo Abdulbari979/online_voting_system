@@ -1,0 +1,8 @@
+# ninja log v6
+9	490	7695794337882751	build.ninja	e2d82e0d5656b95d
+11	1885	7695785489181055	CMakeFiles/online_voting_system.dir/src/main.cpp.obj	c9ded4effe04cb33
+56	1325	7695770219426665	CMakeFiles/online_voting_system.dir/src/Candidate.cpp.obj	cf1ce3df1baa03f4
+18	3721	7695785489263396	CMakeFiles/online_voting_system.dir/src/Election.cpp.obj	9a3ee2224ea28f41
+24	1219	7695785489310360	CMakeFiles/online_voting_system.dir/src/Voter.cpp.obj	c960bac424a564dc
+3722	4121	7695785526289866	online_voting_system.exe	c80477a7418515d8
+5	424	7695794337882751	build.ninja	e2d82e0d5656b95d

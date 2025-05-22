@@ -1,0 +1,3 @@
+C:/Users/HP/Desktop/online_voting_system/cmake-build-debug/CMakeFiles/online_voting_system.dir
+C:/Users/HP/Desktop/online_voting_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/online_voting_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
